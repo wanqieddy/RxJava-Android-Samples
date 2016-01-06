@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/wanqi/Downloads/RxJava-Android-Samples-master/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a0c456a59e1edab84702b48a626705aa1d830ccc">
+        <dex dex="/home/wanqi/Downloads/RxJava-Android-Samples-master/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-fadccfd1653d5d6d4869613182394e5801527137.jar" />
+    </item>
+    <item
+        jar="/home/wanqi/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.0.0/2534c458682c73f5b9871131ab3098d3f987ca3/okio-1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="02534c458682c73f5b9871131ab3098d3f987ca3">
+        <dex dex="/home/wanqi/Downloads/RxJava-Android-Samples-master/app/build/intermediates/pre-dexed/debug/okio-1.0.0-8aa02e15c99b33f90d20ef123e417144250455b3.jar" />
+    </item>
+    <item
+        jar="/home/wanqi/Downloads/RxJava-Android-Samples-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/wanqi/Downloads/RxJava-Android-Samples-master/app/build/intermediates/pre-dexed/debug/classes-36814f7e9bba0a66f75ed840309af16152164aff.jar" />
+    </item>
+    <item
+        jar="/home/wanqi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-urlconnection/2.0.0/afe8399d352713b66e597e9670c741d1e60ae923/okhttp-urlconnection-2.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="afe8399d352713b66e597e9670c741d1e60ae923">
+        <dex dex="/home/wanqi/Downloads/RxJava-Android-Samples-master/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-2.0.0-ec45f658eb7d5dc028d40e4aa8ce4e9adf71d82b.jar" />
+    </item>
+    <item
+        jar="/home/wanqi/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/home/wanqi/Downloads/RxJava-Android-Samples-master/app/build/intermediates/pre-dexed/debug/gson-2.2.4-d6443f4c9f8ae9d86a7cf10092f408d08d3af6f2.jar" />
+    </item>
+    <item
+        jar="/home/wanqi/Downloads/RxJava-Android-Samples-master/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f4e7adebf49e683db82fb6efac2caaf3d768b8d4">
+        <dex dex="/home/wanqi/Downloads/RxJava-Android-Samples-master/app/build/intermediates/pre-dexed/debug/classes-8e6c22a9fef36eb2efd8e87a9940ca5d83a12d7a.jar" />
+    </item>
+    <item
+        jar="/home/wanqi/.gradle/caches/modules-2/files-2.1/com.jakewharton.timber/timber/2.4.2/1f875e143b83cf04899dd6db12765fe9ba483656/timber-2.4.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1f875e143b83cf04899dd6db12765fe9ba483656">
+        <dex dex="/home/wanqi/Downloads/RxJava-Android-Samples-master/app/build/intermediates/pre-dexed/debug/timber-2.4.2-0cd1ce365efa4e5b6cdf85081e51bc11b7a543a5.jar" />
+    </item>
+    <item
+        jar="/home/wanqi/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-analyzer/1.3/c5399b18a672f7973c8a9b9d6b731a3a36e590cc/leakcanary-analyzer-1.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c5399b18a672f7973c8a9b9d6b731a3a36e590cc">
+        <dex dex="/home/wanqi/Downloads/RxJava-Android-Samples-master/app/build/intermediates/pre-dexed/debug/leakcanary-analyzer-1.3-d3ae9760f86d4d9cc94d872fdddaa25e971ff826.jar" />
+    </item>
+    <item
+        jar="/home/wanqi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.0.0/4c8d1536dba3812cc1592090dc20c47a4ed3c35e/okhttp-2.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4c8d1536dba3812cc1592090dc20c47a4ed3c35e">
+        <dex dex="/home/wanqi/Downloads/RxJava-Android-Samples-master/app/build/intermediates/pre-dexed/debug/okhttp-2.0.0-9f610d35311e70a867d9109be47d29558918a418.jar" />
+    </item>
+    <item
+        jar="/home/wanqi/bin/android_studio_sdk/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/wanqi/Downloads/RxJava-Android-Samples-master/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-c8e9bedfd7e96b370ada0cad0a2c410ae5eb486b.jar" />
+    </item>
+    <item
+        jar="/home/wanqi/Downloads/RxJava-Android-Samples-master/app/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding/0.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d7853c6b5f5188017e11c970809c8d981d414689">
+        <dex dex="/home/wanqi/Downloads/RxJava-Android-Samples-master/app/build/intermediates/pre-dexed/debug/classes-a81a572b8bab3bd83735b310bc1e2306de05cbdb.jar" />
+    </item>
+    <item
+        jar="/home/wanqi/Downloads/RxJava-Android-Samples-master/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8c046c952177602c858ed41c8fc492c939bde9aa">
+        <dex dex="/home/wanqi/Downloads/RxJava-Android-Samples-master/app/build/intermediates/pre-dexed/debug/classes-d615a5506df983b669da42108ed36504880480ad.jar" />
+    </item>
+    <item
+        jar="/home/wanqi/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava-math/1.0.0/5efd0e3928c33c74bbc05d7425e3a4652b8fc0dc/rxjava-math-1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5efd0e3928c33c74bbc05d7425e3a4652b8fc0dc">
+        <dex dex="/home/wanqi/Downloads/RxJava-Android-Samples-master/app/build/intermediates/pre-dexed/debug/rxjava-math-1.0.0-89f2d8e634f1ae68b072b319cd8c76bdfa6ed306.jar" />
+    </item>
+    <item
+        jar="/home/wanqi/.gradle/caches/modules-2/files-2.1/com.squareup.haha/haha/1.1/b7b2e61ee1ad2d1ac6ae3122de9c940fb0d0e635/haha-1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b7b2e61ee1ad2d1ac6ae3122de9c940fb0d0e635">
+        <dex dex="/home/wanqi/Downloads/RxJava-Android-Samples-master/app/build/intermediates/pre-dexed/debug/haha-1.1-73ab5e656f6a91fecd598f5da6d36269ad7849b7.jar" />
+    </item>
+    <item
+        jar="/home/wanqi/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.6.1/efb0a36546aa8857ab8df358b106c1817e03cbee/retrofit-1.6.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="efb0a36546aa8857ab8df358b106c1817e03cbee">
+        <dex dex="/home/wanqi/Downloads/RxJava-Android-Samples-master/app/build/intermediates/pre-dexed/debug/retrofit-1.6.1-9eaddca1f040f6e6d513ad10555b61c23774ff09.jar" />
+    </item>
+    <item
+        jar="/home/wanqi/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/home/wanqi/Downloads/RxJava-Android-Samples-master/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1-8306f6a2e1a8641375947c123ee69d280e0d37dd.jar" />
+    </item>
+    <item
+        jar="/home/wanqi/Downloads/RxJava-Android-Samples-master/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa81bfe8c5cc88c2472ca936ae71f0c3dd1766df">
+        <dex dex="/home/wanqi/Downloads/RxJava-Android-Samples-master/app/build/intermediates/pre-dexed/debug/classes-93796e5da6ff8eddc70470e21c13d7e3e3e25bf6.jar" />
+    </item>
+    <item
+        jar="/home/wanqi/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.14/898f9ab61e2a23afd615f0b0389478bec86f49f9/rxjava-1.0.14.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="898f9ab61e2a23afd615f0b0389478bec86f49f9">
+        <dex dex="/home/wanqi/Downloads/RxJava-Android-Samples-master/app/build/intermediates/pre-dexed/debug/rxjava-1.0.14-6e646b8f544744efc4f9f4a07c931e5b84c4455e.jar" />
+    </item>
+    <item
+        jar="/home/wanqi/Downloads/RxJava-Android-Samples-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/wanqi/Downloads/RxJava-Android-Samples-master/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-a085f3c5bd742baac9ab4e6cba6d33a2ebbb20a8.jar" />
+    </item>
+    <item
+        jar="/home/wanqi/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-watcher/1.3/632482a61ad24b7ec864072945d221369f9a606/leakcanary-watcher-1.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632482a61ad24b7ec864072945d221369f9a606">
+        <dex dex="/home/wanqi/Downloads/RxJava-Android-Samples-master/app/build/intermediates/pre-dexed/debug/leakcanary-watcher-1.3-7c5ae098f73c8b4121fb7a9980f164215cb36f17.jar" />
+    </item>
+
+</items>
